@@ -1,4 +1,6 @@
-senior unity/c# enginner with speciality in game engines, tools, and data pipelines
+senior unity/c# enginner with speciality in game engines, tools, and data pipelines  
+[full resume here](https://kk-public-hosting.s3.us-east-2.amazonaws.com/kyle_kukshtel_resume.pdf)  
+[full project list here](https://kylekukshtel.com/projects)
 
 lead maintainer of 2d C# game engine zinc:  
 [zinc engine repo](https://github.com/zinc-framework/Zinc)  
